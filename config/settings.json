@@ -1,0 +1,21 @@
+{
+  "player": {
+    "name": "Player1",
+    "avatar": "default"
+  },
+  "audio": {
+    "music_volume": 0.7,
+    "sfx_volume": 0.8,
+    "music_enabled": true,
+    "sfx_enabled": true
+  },
+  "display": {
+    "width": 800,
+    "height": 600,
+    "fullscreen": false,
+    "theme": "neon"
+  },
+  "gameplay": {
+    "difficulty": "easy"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "users": {
+    "Player1": {
+      "games": {
+        "brick_breaker": {
+          "scores": [
+            {
+              "score": 30,
+              "level": 1,
+              "timestamp": 1749750530.1182103
+            }
+          ]
+        },
+        "coin_dash": {
+          "scores": [
+            {
+              "score": 13,
+              "level": 1,
+              "timestamp": 1749751229.4779234
+            },
+            {
+              "score": 9,
+              "level": 1,
+              "timestamp": 1749750546.7377865
+            },
+            {
+              "score": 3,
+              "level": 1,
+              "timestamp": 1749751968.2931497
+            },
+            {
+              "score": 1,
+              "level": 1,
+              "timestamp": 1750353559.1926956
+            }
+          ]
+        },
+        "snake_reloaded": {
+          "scores": [
+            {
+              "score": 10,
+              "level": 1,
+              "timestamp": 1749750555.3488953
+            }
+          ]
+        },
+        "tower_builder": {
+          "scores": [
+            {
+              "score": 15,
+              "level": 1,
+              "timestamp": 1749754545.9521232
+            },
+            {
+              "score": 4,
+              "level": 1,
+              "timestamp": 1749750569.5390782
+            }
+          ]
+        },
+        "ufo_invasion": {
+          "scores": [
+            {
+              "score": 1340,
+              "level": 1,
+              "timestamp": 1749750646.5511613
+            }
+          ]
+        }
+      }
+    }
+  }
+}
