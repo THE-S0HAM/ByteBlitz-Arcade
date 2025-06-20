@@ -1,0 +1,13 @@
+# Ignore unnecessary and sensitive files from version control
+byteblitz_arcade_blog.md
+DOCUMENTATION.md
+config/settings.json
+config/scores.json
+assets/
+core/__pycache__/
+games/*/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+# Only keep README.md and LICENSE for project info and instructions

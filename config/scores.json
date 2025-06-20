@@ -5,6 +5,11 @@
         "brick_breaker": {
           "scores": [
             {
+              "score": 42,
+              "level": 1,
+              "timestamp": 1750356372.9293334
+            },
+            {
               "score": 30,
               "level": 1,
               "timestamp": 1749750530.1182103
@@ -24,6 +29,11 @@
               "timestamp": 1749750546.7377865
             },
             {
+              "score": 6,
+              "level": 1,
+              "timestamp": 1750356328.8615253
+            },
+            {
               "score": 3,
               "level": 1,
               "timestamp": 1749751968.2931497
@@ -38,6 +48,11 @@
         "snake_reloaded": {
           "scores": [
             {
+              "score": 20,
+              "level": 1,
+              "timestamp": 1750358507.2210224
+            },
+            {
               "score": 10,
               "level": 1,
               "timestamp": 1749750555.3488953
@@ -50,6 +65,11 @@
               "score": 15,
               "level": 1,
               "timestamp": 1749754545.9521232
+            },
+            {
+              "score": 15,
+              "level": 1,
+              "timestamp": 1750356415.7063987
             },
             {
               "score": 4,
